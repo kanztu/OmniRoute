@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+- **fix(antigravity):** strip a trailing assistant prefill turn for Vertex Claude models to avoid upstream 400s. (thanks @anki1kr)
+
 ---
 
 ## [3.8.44] — TBD
